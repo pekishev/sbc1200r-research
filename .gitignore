@@ -1,0 +1,19 @@
+# Credentials and local configuration
+secrets.yaml
+.env
+.env.*
+!.env.example
+
+# Build products can embed Wi-Fi credentials. Raw captures/*.bin ARE intentional.
+.esphome/
+build/
+firmware*.bin
+*.elf
+*.map
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.device-builder*

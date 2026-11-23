@@ -1,0 +1,51 @@
+{
+  "port": "COM7",
+  "settings": "4800 8N1, no flow control",
+  "duration_s": 60,
+  "bytes": 2880,
+  "frames": 240,
+  "checksum_valid": 240,
+  "length_counts": {
+    "7": 240
+  },
+  "unknown_bytes": 0,
+  "median_interval_s": 0.24898999999999916,
+  "ranges": {
+    "output_voltage_V": {
+      "min": 66.14,
+      "max": 66.34
+    },
+    "middle_raw": {
+      "min": 261,
+      "max": 291
+    },
+    "candidate_current_A": {
+      "min": 2.61,
+      "max": 2.91
+    },
+    "input_voltage_V": {
+      "min": 18.43,
+      "max": 19.3
+    }
+  },
+  "driver_errors": [
+    {
+      "t": 0.11803,
+      "flags": 2
+    }
+  ],
+  "transmitted_bytes": 0,
+  "notes": "Six payload bytes encode output voltage, current and input voltage. Current scaling is supported by the display; output-current assignment is inferred from displayed power. No separate temperature or energy field identified in this capture.",
+  "display_reference": {
+    "current_A": 2.8,
+    "temperature_C": 26,
+    "power_W": 186
+  },
+  "current_scale": "0.01 A per count, supported by displayed 2.8 A",
+  "current_assignment": "Likely output current: output voltage about 66.3 V times 2.8 A matches displayed 186 W",
+  "calculated_output_power_W": {
+    "min": 172.991,
+    "max": 192.642,
+    "mean": 187.304
+  }
+}

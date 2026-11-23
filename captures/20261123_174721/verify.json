@@ -1,0 +1,157 @@
+[
+  {
+    "config": "4800_8N1_verify",
+    "seconds": 12,
+    "bytes": 578,
+    "errors": [
+      2
+    ],
+    "hex": "08 06 fe fe fe fe 07 ce 16 00 00 16 08 02 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 16 08 02 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18"
+  },
+  {
+    "config": "4800_8E1_verify",
+    "seconds": 4,
+    "bytes": 192,
+    "errors": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 16 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 16 08 02 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 16 08 04"
+  },
+  {
+    "config": "4800_8O1_verify",
+    "seconds": 4,
+    "bytes": 192,
+    "errors": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 16 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06"
+  },
+  {
+    "config": "4800_8N2_verify",
+    "seconds": 4,
+    "bytes": 192,
+    "errors": [],
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 16 08 02 fe fe fe fe 07 ce 16 00 00 16 08 02 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 d0 16 00 00 18 08 06 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 18 08 04 fe fe fe fe 07 ce 16 00 00 16 08 02 fe fe fe fe 07 d0 16 00 00 18 08 06"
+  },
+  {
+    "config": "4800_7E1_verify",
+    "seconds": 3,
+    "bytes": 149,
+    "errors": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "hex": "7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 50 16 00 00 16 08 04 7e 7e 7e 7e 07 4e 16 00 00 16 08 02 7e 7e 7e 7e 07 50 16 00 00 16 08 04 7e 7e 7e 7e 07 4e 16 00 00 16 08 02 7e 7e 7e 7e 07 4e 16 00 00 16 08 02 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07"
+  },
+  {
+    "config": "4800_7O1_verify",
+    "seconds": 3,
+    "bytes": 144,
+    "errors": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "hex": "7e 7e 7e 7e 07 50 16 00 00 18 08 06 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 50 16 00 00 16 08 04 7e 7e 7e 7e 07 50 16 00 00 18 08 06 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 50 16 00 00 18 08 06 7e 7e 7e 7e 07 4e 16 00 00 18 08 04 7e 7e 7e 7e 07 50 16 00 00 18 08 06 7e 7e 7e 7e 07 50 16 00 00 18 08 06"
+  },
+  {
+    "config": "3600_8N1_verify",
+    "seconds": 3,
+    "bytes": 85,
+    "errors": [
+      4
+    ],
+    "hex": "7e 7e 43 33 c0 4a 44 7e 7e 43 e6 40 4a 24 7e 7e 43 e6 c0 4c 44 7e 7e 43 e6 40 4a 2c 7e 7e 43 33 40 4a 44 7e 7e 43 e6 40 4a 2c 7e 7e 43 33 c0 4a 44 7e 7e 43 e6 40 4a 24 fe 7e 7e 08 33 40 4c 64 7e 7e 43 33 40 4c 6c 7e 7e 43 33 c0 4c 64 7e 7e 43 33 40 0c 6c"
+  },
+  {
+    "config": "4000_8N1_verify",
+    "seconds": 3,
+    "bytes": 87,
+    "errors": [],
+    "hex": "fe 7e 7e 08 33 40 4c 64 7e 7e 43 e6 40 4c 44 7e 7e 43 e6 40 4c 44 7e 7e 43 e6 40 4c 4c 7e 7e 43 e6 40 4c 44 7e 7e 43 33 40 4c 64 7e 7e 43 e6 40 4c 44 7e 7e 43 6e 02 40 46 c2 7e 7e 43 33 c0 4a 44 7e 7e 43 e6 40 4c 44 fe 7e 7e c8 4a c0 42 c2 7e 7e 43 e6 40 4c 44"
+  },
+  {
+    "config": "5000_8N1_verify",
+    "seconds": 3,
+    "bytes": 144,
+    "errors": [],
+    "hex": "fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f c0 dc 00 00 dc 20 18 fc fc fc fc 1f 3c dc 00 00 e0 20 18 fc fc fc fc 1f 3c dc 00 00 e0 20 18 fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f 3c dc 00 00 e0 20 18 fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f c0 dc 00 00 e0 20 1c fc fc fc fc 1f c0 dc 00 00 e0 20 1c"
+  }
+]

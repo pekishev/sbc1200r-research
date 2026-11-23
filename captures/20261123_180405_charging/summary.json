@@ -1,0 +1,47 @@
+{
+  "port": "COM7",
+  "settings": "4800 8N1; no flow control; RX only; RTS/DTR false",
+  "duration_s": 60,
+  "bytes": 2880,
+  "frames": 240,
+  "checksum_valid": 240,
+  "length_counts": {
+    "7": 240
+  },
+  "unclassified_bytes": 0,
+  "ranges": {
+    "output_voltage_V": {
+      "min": 65.88,
+      "max": 66.0,
+      "mean": 65.987
+    },
+    "current_A": {
+      "min": 0.8,
+      "max": 1.24,
+      "mean": 1.222
+    },
+    "input_voltage_V": {
+      "min": 19.22,
+      "max": 19.79,
+      "mean": 19.657
+    },
+    "candidate_output_power_W": {
+      "min": 52.704,
+      "max": 81.84,
+      "mean": 80.62
+    }
+  },
+  "driver_errors": [
+    {
+      "t": 0.17858,
+      "flags": 2
+    }
+  ],
+  "display_reference": {
+    "current_A": 2.8,
+    "temperature_C": 26,
+    "power_W": 186
+  },
+  "transmitted_bytes": 0,
+  "display_reference_note": "User-reported 2.8 A / 186 W corresponds closely to the preceding 18:01 capture (mean calculated 187.304 W), not the later 18:04 capture (mean calculated 80.62 W). References are not synchronized with frames."
+}

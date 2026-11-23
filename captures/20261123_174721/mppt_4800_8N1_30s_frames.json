@@ -1,0 +1,1202 @@
+[
+  {
+    "t": 0.187173,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 0.437924,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 0.689927,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 0.939114,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 1.18797,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 1.449551,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 1.699583,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 1.949047,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 2.196786,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 2.446844,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 2.699086,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 2.932864,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 3.197602,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 3.446174,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 3.696572,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 3.945103,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 4.194168,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 4.441881,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 4.690487,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 4.937052,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 5.187443,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 5.435667,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 5.683943,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 5.934006,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 6.182153,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 6.432985,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 6.682358,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 6.933059,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 7.184804,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 7.43169,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 7.680589,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 7.930354,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 8.193415,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 8.442351,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 8.678479,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 8.92918,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 9.178024,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 9.44103,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 9.689747,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 9.937879,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 10.187065,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 10.434491,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 10.683068,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 10.931846,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 11.179369,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 11.426099,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 11.675493,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 11.937069,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 12.184084,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 12.432203,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 12.678623,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 12.928699,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 13.177886,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 13.428029,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 13.677981,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 13.927355,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 14.176006,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 14.42529,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 14.676159,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 14.923414,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 15.185483,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 15.432398,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 15.682191,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 15.931564,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 16.177902,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 16.425127,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 16.674728,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 16.92409,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 17.173125,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 17.422308,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 17.669224,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 17.932794,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 18.1816,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 18.429487,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 18.67944,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 18.931056,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 19.18223,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 19.417802,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 19.667977,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 19.918309,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 20.166864,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 20.419829,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 20.666829,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 20.917353,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 21.180001,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 21.427279,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 21.675827,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 21.924997,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 22.174231,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 22.425148,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 22.674093,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 22.923138,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 23.171477,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 23.420363,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 23.668834,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 23.916338,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 24.178633,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 24.42579,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 24.674387,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 24.919382,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 25.172442,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 25.421143,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 25.674547,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 25.925686,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 26.175557,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 26.42114,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 26.671389,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 26.920149,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 27.168526,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 27.417208,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 27.664454,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 27.913516,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 28.162981,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 28.412496,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 28.66351,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 28.911015,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 29.15752,
+    "hex": "fe fe fe fe 07 ce 16 00 00 16 08 02",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2070
+    ]
+  },
+  {
+    "t": 29.420159,
+    "hex": "fe fe fe fe 07 ce 16 00 00 18 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5838,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 29.669458,
+    "hex": "fe fe fe fe 07 d0 16 00 00 18 08 06",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2072
+    ]
+  },
+  {
+    "t": 29.919655,
+    "hex": "fe fe fe fe 07 d0 16 00 00 16 08 04",
+    "checksum_ok": true,
+    "raw_u16_le": [
+      5840,
+      0,
+      2070
+    ]
+  }
+]

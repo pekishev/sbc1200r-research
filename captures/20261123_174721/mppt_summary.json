@@ -1,0 +1,37 @@
+{
+  "port": "COM7",
+  "baudrate": 4800,
+  "data_bits": 8,
+  "parity": "none",
+  "stop_bits": 1,
+  "flow_control": "none",
+  "mode": "receive only; DTR and RTS false; no writes",
+  "seconds": 30,
+  "bytes": 1440,
+  "frames": 120,
+  "checksum_valid": 120,
+  "driver_error_flags": [
+    2
+  ],
+  "interval_median_s": 0.24916999999999945,
+  "distinct_frames": {
+    "fe fe fe fe 07 d0 16 00 00 18 08 06": 30,
+    "fe fe fe fe 07 d0 16 00 00 16 08 04": 31,
+    "fe fe fe fe 07 ce 16 00 00 18 08 04": 29,
+    "fe fe fe fe 07 ce 16 00 00 16 08 02": 30
+  },
+  "field_candidates_div100": [
+    [
+      58.38,
+      58.4
+    ],
+    [
+      0.0,
+      0.0
+    ],
+    [
+      20.7,
+      20.72
+    ]
+  ]
+}

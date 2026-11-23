@@ -1,0 +1,2 @@
+# Needed only for live capture. Offline decoding uses the standard library.
+pyserial>=3.5,<4
