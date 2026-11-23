@@ -22,14 +22,25 @@ ota:
   - platform: esphome
 
 wifi:
-  ssid: !secret wifi_ssid
-  password: !secret wifi_password
+  networks:
+    - ssid: !secret wifi_ssid
+      password: !secret wifi_password
+      priority: 10
+    - ssid: !secret wifi_ssid_home
+      password: !secret wifi_password_home
+      priority: 0
   power_save_mode: none
   ap:
     ssid: SBC1200R Setup
     password: !secret wifi_password_fallback
 
 captive_portal:
+
+web_server:
+  port: 80
+  version: 3
+  local: true
+  log: true
 
 globals:
   - id: mppt_last_frame_ms
@@ -74,7 +85,16 @@ uart:
               continue;
             uint8_t checksum = 0;
             for (size_t i = 5; i < 11; ++i) checksum += frame[i];
-            if (checksum != frame[11]) continue;
+            if (checksum != frame[11]) {
+              static uint32_t last_error_ms = 0;
+              const uint32_t now = millis();
+              if (uint32_t(now - last_error_ms) >= 1000) {
+                ESP_LOGW("mppt", "UART checksum mismatch: received %02X, expected %02X",
+                         frame[11], checksum);
+                last_error_ms = now;
+              }
+              continue;
+            }
 
             const float vout = (frame[5] | (uint16_t(frame[6]) << 8)) * 0.01f;
             const float iout = (frame[7] | (uint16_t(frame[8]) << 8)) * 0.01f;
@@ -85,6 +105,14 @@ uart:
             id(mppt_output_voltage).publish_state(vout);
             id(mppt_output_current).publish_state(iout);
             id(mppt_output_power).publish_state(vout * iout);
+            static uint32_t last_log_ms = 0;
+            const uint32_t now = millis();
+            if (uint32_t(now - last_log_ms) >= 1000) {
+              ESP_LOGI("mppt", "RX FE FE FE FE 07 %02X %02X %02X %02X %02X %02X %02X | Vin=%.2f V Vout=%.2f V Iout=%.2f A Pout=%.1f W",
+                       frame[5], frame[6], frame[7], frame[8], frame[9], frame[10], frame[11],
+                       vin, vout, iout, vout * iout);
+              last_log_ms = now;
+            }
           }
 
 sensor:
@@ -144,3 +172,12 @@ binary_sensor:
     lambda: |-
       return id(mppt_seen_frame) &&
              uint32_t(millis() - id(mppt_last_frame_ms)) < 5000;
+
+interval:
+  - interval: 10s
+    then:
+      - lambda: |-
+          if (!id(mppt_seen_frame) ||
+              uint32_t(millis() - id(mppt_last_frame_ms)) >= 5000) {
+            ESP_LOGI("mppt", "Waiting for valid MPPT UART frames on D7/GPIO13 (4800 8N1)");
+          }
