@@ -1,15 +1,13 @@
-# AI-Thinker ESP32-CAM, without microSD.
-# J9.2 (TX) -> 10k -> GPIO13; GPIO13 -> 20k -> GND.
+# ESP8266 DevKit / NodeMCU v2 (ESP-12E, 4 MB flash).
+# J9.2 (TX) -> 10k -> D7/GPIO13; GPIO13 -> 20k -> GND.
 # J9.3 -> GND. J9.1 (+5 V) and J9.4 (RX) are not used.
-# Power ESP32-CAM from a separate regulated 5 V supply initially.
+# Power the DevKit from USB or its documented 5 V input initially.
 esphome:
   name: sbc1200r
   friendly_name: SBC1200R
 
-esp32:
-  board: esp32cam
-  framework:
-    type: esp-idf
+esp8266:
+  board: nodemcuv2
 
 logger:
   level: INFO
@@ -43,6 +41,7 @@ globals:
 
 uart:
   id: mppt_uart
+  # D7: UART0 RX in swapped mode; serial logging is disabled above.
   rx_pin: GPIO13
   baud_rate: 4800
   data_bits: 8
