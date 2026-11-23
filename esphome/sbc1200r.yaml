@@ -1,6 +1,7 @@
 # ESP8266 DevKit / NodeMCU v2 (ESP-12E, 4 MB flash).
-# J9.2 (TX) -> 10k -> D7/GPIO13; GPIO13 -> 20k -> GND.
-# J9.3 -> GND. J9.1 (+5 V) and J9.4 (RX) are not used.
+# CJMCU HV/LV: J9.2 TX -> HV1; LV1 -> D7/GPIO13 (no divider).
+# J9.1 +5 V -> HV; ESP 3V3 -> LV; J9.3 and ESP GND -> GND.
+# J9.4 (presumed controller RX) is not used.
 # Power the DevKit from USB or its documented 5 V input initially.
 esphome:
   name: sbc1200r
