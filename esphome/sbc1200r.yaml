@@ -1,5 +1,6 @@
 # ESP8266 DevKit / NodeMCU v2 (ESP-12E, 4 MB flash).
-# CJMCU HV/LV: J9.2 TX -> HV1; LV1 -> D7/GPIO13 (no divider).
+# CJMCU RXI/RXO + TXO/TXI board: use the MOSFET path, Chan1.
+# J9.2 TX -> TXO (HV side); TXI (LV side) -> D7/GPIO13.
 # J9.1 +5 V -> HV; ESP 3V3 -> LV; J9.3 and ESP GND -> GND.
 # J9.4 (presumed controller RX) is not used.
 # Power the DevKit from USB or its documented 5 V input initially.
