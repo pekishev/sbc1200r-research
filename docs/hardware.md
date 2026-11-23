@@ -69,4 +69,10 @@ J9.3 (GND) --------------+---- GND
 
 ESP8266: [ESPHome platform](https://esphome.io/components/esp8266/), [UART0 swap](https://esphome.io/components/uart/).
 
-Источники для этого исполнения: [SparkFun, старая плата с RXI/RXO и TXI/TXO](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter/hookup-examples), [ESP8266EX Datasheet, Electrical Characteristics](https://documentation.espressif.com/0a-esp8266ex_datasheet_en.pdf). Совместимость конкретного CJMCU-модуля на аппаратуре пока не проверена.
+Источники для этого исполнения: [SparkFun, старая плата с RXI/RXO и TXI/TXO](https://learn.sparkfun.com/tutorials/retired---using-the-logic-level-converter/hookup-examples), [ESP8266EX Datasheet, Electrical Characteristics](https://documentation.espressif.com/0a-esp8266ex_datasheet_en.pdf). Короткая проверка фактического CJMCU-модуля с транзисторным путём TXO→TXI и ESP8266 выполнена 24 ноября 2026 года: валидные UART-кадры принимаются, API и веб-журнал передают данные.
+
+### Практическая проверка питания
+
+При попытке питания VIN NodeMCU напрямую от J9.1 владелец измерил около 1 В на VIN. Напряжение непосредственно на J9.1 под нагрузкой отдельно не измерено, поэтому перегрузка источника, потери в соединении и другие причины не разделены. После отключения провода J9.1→VIN и питания NodeMCU от повербанка связь и приём телеметрии заработали.
+
+Для повторения использовать отдельное USB-питание NodeMCU. J9.1 подключать только к HV преобразователя уровней. Возможность надёжного питания самой NodeMCU от J9.1 не подтверждена.
